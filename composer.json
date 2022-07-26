@@ -1,8 +1,8 @@
 {
-    "name": "dash8x/dhiraagu-sms",
+    "name": "shxfee/dhiraagu-sms",
     "description": "PHP SDK for Dhiraagu Bulk SMS Gateway",
     "keywords": ["sms", "maldives", "dhivehi", "dhisms", "texting", "messaging", "dhiraagu"],
-    "homepage": "https://github.com/dash8x/dhiraagu-sms",
+    "homepage": "https://github.com/shxfee/dhiraagu-sms",
     "license": "MIT",
     "authors": [
         {
@@ -22,11 +22,6 @@
     "autoload": {
         "psr-4": {
             "Dash8x\\DhiraaguSms\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Dash8x\\Tests\\": "tests/"
         }
     }
 }
